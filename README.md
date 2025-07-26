@@ -11,3 +11,5 @@ Versions of libraries used:
 - numpy version: 1.24.4
 - pandas version: 2.0.3
 - sklearn version: 1.3.0
+
+**If you don't have the above installed, I've also included a pdf copy of the file**
