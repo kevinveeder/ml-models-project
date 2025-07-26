@@ -6,3 +6,8 @@ What factors can affectively contribute to a student's academic grade? Is it sim
 This project uses a jupyter notebook. Make sure to have these installed before opening the .ipynb file:
 - Python 3.7 or above
 - Jupyter Notebooks
+
+Versions of libraries used:
+- numpy version: 1.24.4
+- pandas version: 2.0.3
+- sklearn version: 1.3.0
